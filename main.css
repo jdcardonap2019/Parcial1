@@ -1,0 +1,25 @@
+#titulo {
+    font-family: 'Satisfy', cursive;
+}
+hr {
+    width: 100%;
+}
+#carro {
+    display: relative;
+    left: 0px;
+    width: 50px;
+    height: 50px;
+}
+#barraNav {
+    display: flex;
+    align-items: center;
+    background-color: #333A40;
+    color: white;
+    height: 80px;
+}
+#barraNav li a{
+    color: white;
+}
+#buttonCard {
+    background-color: #333A40;
+}
